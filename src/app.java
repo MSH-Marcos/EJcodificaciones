@@ -11,8 +11,7 @@ public class app {
 
         System.out.println(codigo);
 
-/*        codigo = codificador.decodificar(codigo);
-
-        System.out.println(codigo);*/
+        String descodificacion=codificador.decodificar(codigo);
+        System.out.println(descodificacion);
     }
 }

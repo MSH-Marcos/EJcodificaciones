@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dbb01d3d-bd86-4a33-ba1b-0c592d848327" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/clases/codificador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/codificador.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -70,6 +72,7 @@
       <updated>1572356924713</updated>
       <workItem from="1572356928766" duration="158000" />
       <workItem from="1572357117508" duration="5745000" />
+      <workItem from="1572363675702" duration="195000" />
     </task>
     <servers />
   </component>
